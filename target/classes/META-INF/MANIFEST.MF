@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: lab-3-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.pruebas.config-server
+Build-Jdk: 1.7.0_80
+Built-By: patrick
+Created-By: Maven Integration for Eclipse
+
